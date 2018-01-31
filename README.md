@@ -1,2 +1,2 @@
 # Gramener_solution
-Repo for the solution to exercise of Gramener
+Repo for the solution to exercise of CDAC
